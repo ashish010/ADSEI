@@ -1,0 +1,83 @@
+[09-Dec-2018 11:06:31 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 2
+[09-Dec-2018 11:06:31 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 2
+[09-Dec-2018 11:06:31 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 2
+[09-Dec-2018 11:08:47 Australia/Sydney] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/mirrorf1/public_html/Login.php on line 2
+[09-Dec-2018 11:08:48 Australia/Sydney] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/mirrorf1/public_html/Login.php on line 2
+[09-Dec-2018 11:09:19 Australia/Sydney] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/mirrorf1/public_html/Login.php on line 2
+[09-Dec-2018 11:09:20 Australia/Sydney] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/mirrorf1/public_html/Login.php on line 2
+[09-Dec-2018 11:09:20 Australia/Sydney] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/mirrorf1/public_html/Login.php on line 2
+[09-Dec-2018 11:09:21 Australia/Sydney] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/mirrorf1/public_html/Login.php on line 2
+[09-Dec-2018 11:09:22 Australia/Sydney] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/mirrorf1/public_html/Login.php on line 2
+[09-Dec-2018 11:09:28 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:09:28 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:09:28 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:09:43 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:09:43 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:09:43 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:09:44 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:09:44 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:09:44 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:09:53 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:09:53 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:09:53 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:09:54 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:09:54 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:09:54 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:09:55 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:09:55 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:09:55 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:03 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:03 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:03 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:04 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:04 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:04 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:04 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:04 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:04 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:05 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:05 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:05 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:22 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:22 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:22 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:23 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:23 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:23 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:39 Australia/Sydney] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:39 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:39 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:39 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:40 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:40 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:40 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:52 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:52 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:10:52 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:02 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:02 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:02 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:09 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:09 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:09 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:10 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:10 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:10 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:10 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:10 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:10 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:11 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:11 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:11 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:11 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:11 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:11 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:32 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:32 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:32 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:32 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:32 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:32 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:52 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:52 Australia/Sydney] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/mirrorf1/public_html/Login.php on line 3
+[09-Dec-2018 11:11:52 Australia/Sydney] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/mirrorf1/public_html/Login.php on line 3
